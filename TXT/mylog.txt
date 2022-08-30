@@ -10,4 +10,4 @@ ZCZC W00 20 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W00 60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W00 20 L21 Trying something
 ZCZC W01 20 L41 TXT/mylog.txt related.
-ZCZC W01 70 L64 Helping a friend with setting up VirtualBox and Debian
+ZCZC W01 40 L64 Helping a friend with setting up VirtualBox and Debian
