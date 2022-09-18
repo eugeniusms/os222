@@ -39,3 +39,8 @@ ZCZC W02 10 L09 Check all of gpg keys
 ZCZC W02 10 L09 Importing the Operating Systems public key
 ZCZC W02 10 L09 Signing the System Programming public key
 ZCZC W02 10 L09 Export Public Key "mypubkey.txt"
+ZCZC W02 10 L09 Finish Week 02 Assignment #2: GnuPG
+ZCZC W02 20 L09 Finish Week 02 Assignment #3: Update LINKS/
+ZCZC W02 10 L09 Finish Week 02 Assignment #5: Script Download
+ZCZC W02 30 L09 Finish Week 02 Assignment #6: Finishing
+ZCZC W02 20 L03 Edit GitHub repository with push from UTM
