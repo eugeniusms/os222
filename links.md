@@ -1,14 +1,14 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Eugenius Mario Situmorang</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB]({{ https://github.com/eugeniusms/os222 }})
 <br>
 <hr>
 
@@ -26,6 +26,6 @@ data such as phone number, email, date of birth, address, organization, and more
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; 2022 --- Eugenius Mario Situmorang  --- Version: 1.2
 <hr>
 <br>
