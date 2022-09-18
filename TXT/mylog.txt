@@ -34,3 +34,8 @@ ZCZC W02 10 L05 QUIZ
 ZCZC W02 120 L06 Read Chapter 16 and 17 (OS Reference Book)
 ZCZC W02 20 L06 Read https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/
 ZCZC W02 05 L06 Read http://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/
+ZCZC W02 10 L09 Install sudo, install gpg, and generating a GnuPG KEY PAIR
+ZCZC W02 10 L09 Check all of gpg keys 
+ZCZC W02 10 L09 Importing the Operating Systems public key
+ZCZC W02 10 L09 Signing the System Programming public key
+ZCZC W02 10 L09 Export Public Key "mypubkey.txt"
