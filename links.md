@@ -24,6 +24,15 @@ This article contains safe internet guidelines, such as using a browser
 and what to keep private such as for example personal photos and videos, personal 
 data such as phone number, email, date of birth, address, organization, and more
 
+3. [What is the Differenc Between wget vs curl?](https://linuxhint.com/what-is-the-difference-between-wget-vs-curl/)
+This article contains the difference between wget and curl as a command to
+download open source file with Shell.
+
+4. [SHASUM Command on Linux](https://linuxhint.com/shasum-linux/)
+This article contains information about SHASUM. The SHASUM is used for computing
+SHA message digest, crytographic, checksum, or cryptographic hashcode. This article
+also explain the comparison of variants of SHA.
+
 <br>
 <hr>
 &copy; 2022 --- Eugenius Mario Situmorang  --- Version: 1.2

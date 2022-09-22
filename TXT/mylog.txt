@@ -44,5 +44,8 @@ ZCZC W02 20 L09 Finish Week 02 Assignment #3: Update LINKS/
 ZCZC W02 10 L09 Finish Week 02 Assignment #5: Script Download
 ZCZC W02 30 L09 Finish Week 02 Assignment #6: Finishing
 ZCZC W02 20 L03 Edit GitHub repository with push from UTM
-ZCZC W03 10 L09 Update my Debian Guest
-
+ZCZC W03 10 L13 Update my Debian Guest
+ZCZC W03 20 L13 Create an extra virtual disk
+ZCZC W03 100 L02 Join offline class (22-09-2022)
+ZCZC W03 20 L13 Update myupdate.txt, LINKS, and mylog.txt
+ZCZC W03 10 Check SCELE OS-GSL2023
