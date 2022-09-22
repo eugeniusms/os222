@@ -44,3 +44,5 @@ ZCZC W02 20 L09 Finish Week 02 Assignment #3: Update LINKS/
 ZCZC W02 10 L09 Finish Week 02 Assignment #5: Script Download
 ZCZC W02 30 L09 Finish Week 02 Assignment #6: Finishing
 ZCZC W02 20 L03 Edit GitHub repository with push from UTM
+ZCZC W03 10 L09 Update my Debian Guest
+
