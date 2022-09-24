@@ -52,27 +52,27 @@ This documentation contains information about file system interface.
 File system interface enables people to use surrogate instances called file
 system entities to access physical objects that reside on hardware or virtual devices.
 
-6. [Difference Between The NTFS and FAT32 Memory Card File Systems](https://consumer.huawei.com/en/support/content/en-us00414645/#:~:text=NTFS%20and%20FAT32%20file%20systems,manage%20disk%20space%20more%20effectively.)
+6. [Difference Between The NTFS and FAT32 Memory Card File Systems](https://consumer.huawei.com/en/support/content/en-us00414645/#:~:text=NTFS%20and%20FAT32%20file%20systems,manage%20disk%20space%20more%20effectively.)<br>
 This article contains the difference between NTFS and FAT32 memory
 card file systems. The FAT32 file system cannot store individual file larger
 than 4GB. Then the NTFS file system has higher disk utilization.
 
-7. [Unified Buffer Cache](http://www.mallorn.com/People/lindsey/test/c0504.htm)
+7. [Unified Buffer Cache](http://www.mallorn.com/People/lindsey/test/c0504.htm)<br>
 To increase file system performance, digital implemented a Unified Buffer
 Cache (UBC) fully integrated with the file system that caches file system
 data and can grow or shrink upon demand.
 
-8. [What is Virtual File System](https://www.techtarget.com/searchitoperations/definition/virtual)
+8. [What is Virtual File System](https://www.techtarget.com/searchitoperations/definition/virtual)<br>
 This article contains information about VFS. Virtual File System is
 programming that forms an interface between an operating system's
 kernel and a more concrete file system.
 
-9. [Memory Structure - an Overview](https://www.sciencedirect.com/topics/computer-science/memory-structure)
+9. [Memory Structure - an Overview](https://www.sciencedirect.com/topics/computer-science/memory-structure)<br>
 This article contains information about memory structure. Memory structures
 are often classified on the basis of accessibility of data and program memory.
 Von Neumann Architecture and Harvard Architecture explained on this article. 
 
-10. [File System Implementation in Operating System](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/)
+10. [File System Implementation in Operating System](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/)<br>
 This article contains information about file system. A file is a collection
 of related information. The file system resides on secondary storage and provides
 efficient and convenient access to the disk by allowing data to be stored.
