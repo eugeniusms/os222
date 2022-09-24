@@ -62,7 +62,7 @@ To increase file system performance, digital implemented a Unified Buffer
 Cache (UBC) fully integrated with the file system that caches file system
 data and can grow or shrink upon demand.
 
-8. [What is Virtual File System(VFS)](https://www.techtarget.com/searchitoperations/definition/virtual-file-system-VFS#:~:text=A%20virtual%20file%20system%20(VFS,local%20and%20network%20storage%20devices)
+8. [What is Virtual File System](https://www.techtarget.com/searchitoperations/definition/virtual)
 This article contains information about VFS. Virtual File System is
 programming that forms an interface between an operating system's
 kernel and a more concrete file system.
