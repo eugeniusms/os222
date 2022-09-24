@@ -46,9 +46,12 @@ ZCZC W02 30 L09 Finish Week 02 Assignment #6: Finishing
 ZCZC W02 20 L03 Edit GitHub repository with push from UTM
 ZCZC W03 10 L13 Update my Debian Guest
 ZCZC W03 20 L13 Create an extra virtual disk
+ZCZC W03 100 L02 Zoom meeting (20-09-2022)
 ZCZC W03 100 L02 Join offline class (22-09-2022)
+ZCZC W03 30 L06 Read many articles
 ZCZC W03 20 L13 Update myupdate.txt, LINKS, and mylog.txt
 ZCZC W03 10 Check SCELE OS-GSL2023
 ZCZC W03 10 L05 Quiz 01 - Week 03
 ZCZC W03 10 L05 Quiz 02 - Week 03
+ZCZC W03 30 L06 Read many articles
 ZCZC W03 30 L03 Update myrank.txt and links.md
