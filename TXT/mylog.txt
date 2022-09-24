@@ -49,3 +49,4 @@ ZCZC W03 20 L13 Create an extra virtual disk
 ZCZC W03 100 L02 Join offline class (22-09-2022)
 ZCZC W03 20 L13 Update myupdate.txt, LINKS, and mylog.txt
 ZCZC W03 10 Check SCELE OS-GSL2023
+ZCZC W03 30 L03 Update myrank.txt and links.md
