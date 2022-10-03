@@ -77,6 +77,34 @@ This article contains information about file system. A file is a collection
 of related information. The file system resides on secondary storage and provides
 efficient and convenient access to the disk by allowing data to be stored.
 
+## WEEK 4
+
+1. [GNU Privacy Guard](https://lms.onnocenter.or.id/wiki/index.php/GNU_Privacy_Guard)<br>
+This article explains about GNU Privacy Guard (GnuPG), a tool that is used to crypt files in this course.
+I'm glad I find this article as it is type in Indonesian!
+If you want to learn more about GnuPG (instead of "just" following the guide without knowing about GnuPG) read this article.
+
+2. [Mmemory mapping in Linux? What is that?](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>
+This article explains a brief yet comprehensive explanation about memory mapping in Linux.
+Memory mapping is one of the most interesting features of a Unix system, so I highly recommend you to push your limits on learning memory mapping.
+This article even has videos to explain the concept behind memory mapping and nmap program in Linux.
+
+3. [Knowing Pointers in C++](https://personal.utdallas.edu/~rkm010300/utd/cs3376/ppt/ch09.pdf)<br>
+Even though this slide presentation is intended for C++, I think it is still providing a good basic for understanding pointers in C.
+C++ is a programming language which is an extension of the C programming language; that is why most of concepts of C++ is still appicable for C, even though it might have different syntax.
+This slide has a comprehensive explanation about pointers.
+It even has some basic visualization to help you out!
+
+4. [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)<br>
+This article is a good start for you who are just starting to learn about bash scripting.
+Bash scripting is an essential skill that must be known by Linux users (or mastered, if you're a real hardcore one).
+
+5. [Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+This article explains a good explanation about how static and dynamic libraries works in Linux.
+"You came to the right place if you’re wondering how static and dynamic libraries work in C programs," the writer writes.
+The article even has some video resources as a supplement for you.
+
+
 <br>
 <hr>
 &copy; 2022 --- Eugenius Mario Situmorang  --- Version: 1.2
