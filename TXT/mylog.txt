@@ -75,3 +75,10 @@ ZCZC W06 10 L05 Quiz 01 - Week 06
 ZCZC W06 20 L16 Finish All Week 06 Asssignments
 ZCZC W06 60 L05 Pop Quiz 1-2-3
 ZCZC W06 20 L03 Update GitHub Things 
+ZCZC W07 100 L02 Lecture
+ZCZC W07 100 L02 Lecture
+ZCZC W07 10 L05 Quiz 01 - Week 07
+ZCZC W07 50 L17 Finish All Week 07 Assignments
+ZCZC W07 20 L05 Pop Quiz 1-2
+ZCZC W07 20 L03 Update GitHub Things
+
