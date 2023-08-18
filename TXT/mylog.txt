@@ -1,0 +1,122 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 10 L03 Create os222 GitHub repository
+ZCZC W00 10 L03 Create TXT/mylog.txt, LICENSE.md and README.md
+ZCZC W00 10 L03 Deploy Github Pages eugeniusms
+ZCZC W00 60 L03 Finish Weekly Assignments - Week 00
+ZCZC W00 20 L01 Join Scele course (OS-GSL2022)
+ZCZC W00 10 L01 Submit registration form OS-222 on Google Form
+ZCZC W00 10 L06 Read "What defines an Operating System?" by Rahmat M. Samik Ibrahim
+ZCZC W00 10 L06 Open lecture references
+ZCZC W00 30 L06 GSGS about microchip companies
+ZCZC W00 100 L02 Face-to-face lecture
+ZCZC W00 10 L41 Update TXT/mylog.txt
+ZCZC W00 180 L23 Learning Shell
+ZCZC W00 20 L32 Watch Google Database Building
+ZCZC W00 100 L02 Face-to-face lecture
+ZCZC W00 30 L64 Helping a friend create github pages and repository
+ZCZC W00 20 L06 Read some articles about web scraping 
+ZCZC W00 360 L24 Create web scrap script and manage the data to database
+ZCZC W00 20 L24 Create GUI functionality from scrap data
+ZCZC W00 30 L05 Read Silbershartz's book
+ZCZC W00 10 L05 Quiz 01 Week 01
+ZCZC W00 20 L01 Check the class forum Scele
+ZCZC W00 10 L03 Update GitHub repository os222
+ZCZC W01 100 L02 Face-to-face lecture
+ZCZC W01 60 L11 Installing Debian on Apple Silicon Mac UTM
+ZCZC W01 20 L11 Running a Debian Guest
+ZCZC W01 60 L11 Dress Up Virtual Guest
+ZCZC W01 20 L11 Pull from or Push to GitHub with SSH
+ZCZC W01 10 L03 Update mylog.txt
+ZCZC W01 60 L11 Add index.md links.md and myupdate.txt to GitHub
+ZCZC W01 230 L11 Finish Weekly Assignment - Week 01
+ZCZC W01 60 L11 Style index.md links.md and tips.md
+ZCZC W01 100 L02 Face-to-face lecture
+ZCZC W01 180 L11 Read some articles about Linux
+ZCZC W01 30 L03 Update links.md
+ZCZC W01 40 L05 Finish Week 01 Quiz 02
+ZCZC W01 10 L05 Finish Week 01 Quiz 01
+ZCZC W02 30 L12 Reading Watchings and Demos
+ZCZC W02 30 L12 Set GnuPG export my public key
+ZCZC W02 20 L12 Review 5 LINKS and update myrank
+ZCZC W02 100 L02 Face-to-face lecture
+ZCZC W02 30 L12 Backup SSH and GPG Keys
+ZCZC W02 240 L12 Read some articles to LINKS
+ZCZC W02 60 L12 Update links.md
+ZCZC W02 240 L12 Finish Weekly ASsignment - Week 02
+ZCZC W02 100 L02 Face-to-face lecture
+ZCZC W02 60 L11 Read Silberschatz
+ZCZC W02 10 L05 Finish Week 02 Quiz 01
+ZCZC W02 120 L05 Finish Week 02 Quiz 02
+ZCZC W03 60 L11 Read Silberschatz
+ZCZC W03 100 L02 Face-to-face lecture
+ZCZC W03 60 L11 Read Silberschatz
+ZCZC W03 100 L02 Face-to-face lectures
+ZCZC W03 20 L05 Quiz 1 Week 03
+ZCZC W03 120 L05 Quiz 2 Week 03
+ZCZC W03 40 L13 Setup New UTM Extra Virtual Disk
+ZCZC W03 100 L13 Script Download Found Error
+ZCZC W03 30 L64 Helping a friend 
+ZCZC W03 120 L13 Finish Weekly Assignments 03
+ZCZC W04 60 L11 Read Silberschatz
+ZCZC W04 100 L02 Face-to-face lectures
+ZCZC W04 30 L14 Activate os1 eugeniusms
+ZCZC W04 100 L11 Read Silberschatz
+ZCZC W04 100 L02 Face-to-face lectures
+ZCZC W04 240 L14 Reading and update LINKS
+ZCZC W04 30 L05 Check LINKS rank
+ZCZC W04 120 L24 Modify webscrapping
+ZCZC W04 180 L24 Learn Shell for cryptography
+ZCZC W04 30 L05 Pop Quiz Week 04
+ZCZC W04 20 L05 Quiz 1 Week 04
+ZCZC W04 240 L14 Finish Weekly Assignments 04
+ZCZC W05 40 L11 Read Silberschatz
+ZCZC W05 100 L02 Face-to-face lectures
+ZCZC W05 50 L11 Read Silberschatz
+ZCZC W05 100 L02 Face-to-face lectures
+ZCZC W05 240 L14 Reading and update LINKS
+ZCZC W05 30 L05 Check LINKS rank
+ZCZC W05 240 L24 Add webscrapping features
+ZCZC W05 90 L24 Learn Shell 
+ZCZC W05 30 L05 Pop Quiz 01 Week 05
+ZCZC W05 30 L05 Pop Quiz 02 Week 05
+ZCZC W05 240 L05 Quiz 01 Week 05 
+ZCZC W05 240 L15 Finish Weekly Assignments 05
+ZCZC W06 50 L11 Read Silberschatz
+ZCZC W06 100 L02 Face-to-face lectures
+ZCZC W06 50 L11 Read Silberschatz
+ZCZC W06 100 L02 Face-to-face lectures
+ZCZC W06 240 L24 Reading and update LINKS
+ZCZC W06 30 L05 Check LINKS rank
+ZCZC W06 240 L24 Add webscrapping guide
+ZCZC W06 100 L24 Learn Shell
+ZCZC W06 30 L05 Pop Quiz 01 Week 06
+ZCZC W06 30 L05 Quiz 01 Week 06
+ZCZC W06 40 L05 Try Midterm Task
+ZCZC W06 240 L16 Finish Weekly Assignment 06
+ZCZC W07 50 L11 Read Silberschatz
+ZCZC W07 100 L02 Face-to-face lectures
+ZCZC W07 50 L11 Read Silberschatz
+ZCZC W07 100 L02 Face-to-face lectures
+ZCZC W07 240 L24 Reading and update LINKS
+ZCZC W07 30 L05 Check LINKS rank
+ZCZC W07 240 L24 Add webscrapping guide
+ZCZC W07 100 L24 Learn Shell
+ZCZC W07 30 L05 Pop Quiz 01 Week 07
+ZCZC W07 30 L05 Pop Quiz 02 Week 07
+ZCZC W07 30 L05 Quiz 01 Week 07
+ZCZC W07 240 L17 Finish Weekly Assignment 07
+ZCZC W08 50 L11 Read Silberschatz
+ZCZC W08 100 L02 Zoom lectures
+ZCZC W08 50 L11 Read Silberschatz
+ZCZC W08 100 L02 Zoom lectures
+ZCZC W08 240 L24 Reading and update LINKS
+ZCZC W08 30 L05 Check LINKS rank
+ZCZC W08 240 L24 Add webscrapping guide
+ZCZC W08 100 L24 Learn Shell
+ZCZC W08 30 L05 Pop Quiz 01 Week 08
+ZCZC W08 30 L05 Pop Quiz 02 Week 08
+ZCZC W08 30 L05 Quiz 01 Week 08
+ZCZC W08 360 L18 Finish Weekly Assignment 08
